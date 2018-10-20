@@ -1,5 +1,5 @@
 _repo: The-Follies-of-Love_6089
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Morlock, Frank J.
@@ -31,5 +31,6 @@ rights_url: ''
 subjects:
 - !lcc 'PQ'
 - !lcsh 'French drama -- Translations into English'
+- GITenberg
 title: The Follies of Love
 url: http://www.gutenberg.org/ebooks/6089
